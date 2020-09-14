@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlayWithActions</string>
+    <string name="open_dispute">פתח פולמוס</string>
+    <string name="open_meeting">תאם פגישה</string>
+    <string name="set_up_appointment">קבע פגישה</string>
+    <string name="more_about_us_ob_the_web">עוד עלינו ברשת</string>
+    <string name="contact_us">צור קשר</string>
+    <string name="shared_element_dispute">shared_element_dispute</string>
+    <string name="shared_element_appointment">shared_element_appointment</string>
+    <string name="save_to_contact">שמירה כאיש קשר</string>
+    <string name="dialer">פתח חייגן</string>
+    <string name="call">בצע חיוג</string>
+    <string name="permission_request">בקשת הרשאות</string>
+    <string name="yes_i_approve">כן, תן הרשאה</string>
+    <string name="deny">דחה</string>
+    <string name="request_call_permission">בקש הרשאה לביצוע חיוג</string>
+    <string name="call_permission_rational_message">על מנת שהמכשיר שלך יוכל לבצע שיחה יוצאת יש לתת הרשאת התקשרות.\nהאם לתת הרשאת התקשרות?</string>
+    <string name="no_call_permission">אין הרשאת חיוג</string>
+</resources>

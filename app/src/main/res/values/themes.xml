@@ -1,0 +1,24 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+
+        <!-- The color displayed most frequently across your app’s screens and components. This color should pass guidelines for text / iconography when drawn on top of the surface or background color. -->
+        <item name="colorPrimary">@color/mid_blue</item>
+        <!-- A tonal variation of the primary color. -->
+        <item name="colorPrimaryVariant">@color/dark_blue</item>
+        <!-- A color that passes guidelines for text/iconography when drawn on top of the primary color.  -->
+        <item name="colorOnPrimary">@color/light_blue</item>
+
+
+        <!-- The secondary branding color for the app, usually an accented complement to the primary branding color. -->
+        <item name="colorSecondary">@color/mid_cyan</item>
+        <!-- A tonal variation of the secondary color. -->
+        <item name="colorSecondaryVariant">@color/dark_cyan</item>
+        <!-- A color that passes guidelines for text/iconography when drawn on top of the secondary color. -->
+        <item name="colorOnSecondary">@color/light_cyan</item>
+
+
+        <item name="android:colorBackground">@color/gray50</item>
+    </style>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Button
+        android:id="@+id/buttonAddAsContact"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+        android:text="@string/save_to_contact"
+        app:icon="@drawable/ic_baseline_contact_phone_24"/>
+
+    <Button
+        android:id="@+id/buttonDial"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+        android:text="@string/dialer"
+        app:icon="@drawable/ic_baseline_add_ic_call_24"/>
+
+    <Button
+        android:id="@+id/buttonCall"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+        android:text="@string/call"
+        app:icon="@drawable/ic_baseline_phone_24"/>
+</merge>
