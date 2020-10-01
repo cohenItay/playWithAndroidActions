@@ -12,5 +12,7 @@
     <color name="dark_cyan">#008ba3</color>
 
     <color name="gray50">#FFF2F5F8</color>
+    <color name="gray100">#FF222222</color>
+    <color name="gray600">#FF7F7F7F</color>
 
 </resources>

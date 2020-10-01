@@ -19,6 +19,7 @@
 
 
         <item name="android:colorBackground">@color/gray50</item>
+        <item name="android:layoutDirection">rtl</item>
     </style>
 
 </resources>

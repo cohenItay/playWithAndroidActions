@@ -16,4 +16,11 @@
     <string name="request_call_permission">בקש הרשאה לביצוע חיוג</string>
     <string name="call_permission_rational_message">על מנת שהמכשיר שלך יוכל לבצע שיחה יוצאת יש לתת הרשאת התקשרות.\nהאם לתת הרשאת התקשרות?</string>
     <string name="no_call_permission">אין הרשאת חיוג</string>
+    <string name="name">שם</string>
+    <string name="email">דואר אלקטרוני</string>
+    <string name="subject">נושא</string>
+    <string name="dispute_content">"במה תרצה לדון ? "</string>
+    <string name="send">שלח</string>
+    <string name="sended">נשלח</string>
+    <string name="please_fill_info">נא למלא את כל השדות</string>
 </resources>
