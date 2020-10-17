@@ -23,4 +23,10 @@
     <string name="send">שלח</string>
     <string name="sended">נשלח</string>
     <string name="please_fill_info">נא למלא את כל השדות</string>
+    <string name="event_name">שם האירוע</string>
+    <string name="pick_date">בחר תאריך</string>
+    <string name="more_details">פרטים נוספים</string>
+    <string name="event_details">פרטים נוספים</string>
+    <string name="event_date">מועד הפגישה</string>
+    <string name="enter_all_of_the_detals">נא הזן את כל הפרטים</string>
 </resources>
